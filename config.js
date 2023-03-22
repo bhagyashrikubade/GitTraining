@@ -8,3 +8,4 @@ window._config = {
         invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
+ https://kipzlaa00c.execute-api.us-east-1.amazonaws.com/prod
